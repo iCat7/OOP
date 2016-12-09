@@ -146,6 +146,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" />
+    <None Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj.filters" />
+  </ItemGroup>
+  <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\AllocationBlock.cpp" />
     <ClCompile Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\main.cpp" />
     <ClCompile Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\Rectangle.cpp" />
@@ -163,10 +167,6 @@
     <ClInclude Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\Stack.h" />
     <ClInclude Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\StackItem.h" />
     <ClInclude Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\Trapezium.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" />
-    <None Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj.filters" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,6 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" />
+    <None Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj.filters" />
+  </ItemGroup>
+  <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\AllocationBlock.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
@@ -62,9 +66,5 @@
     <ClInclude Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\Trapezium.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" />
-    <None Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj.filters" />
   </ItemGroup>
 </Project>
